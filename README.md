@@ -6,7 +6,7 @@ I'm Jeisson Pulido and I am currently a First Year Graduate Student at the Unive
 
 - University of Southern California (2021-Present) | Graduate Student, Physics
 - California State University: Dominguez Hills (2018-2023) | B.S., Physics
-- 
+  
 ## Work Experience
 
 #### University of Southern California (USC). Los Angeles, CA. August 2023 – Present
