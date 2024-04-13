@@ -4,7 +4,7 @@ I'm Jeisson Pulido and I am currently a First Year Graduate Student at the Unive
 
 ## Education
 
-- USC (2021-Present) | Grad Student Physics
+- USC (2023-Present) | Grad Student Physics
 - CSUDH (2018-2023) | B.S., Physics
   
 ## Work Experience
