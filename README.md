@@ -4,19 +4,19 @@ I'm Jeisson Pulido and I am currently a First Year Graduate Student at the Unive
 - University of Southern California (2021-Present) | Graduate Student, Physics
 - California State University: Dominguez Hills (2018-2023) | B.S., Physics
 ## Work Experience
-### University of Southern California (USC). Los Angeles, CA. August 2023 – Present
+#### University of Southern California (USC). Los Angeles, CA. August 2023 – Present
 - Currently serve as a laboratory instructor on Electricity and Magnetism experiments. 
 
-### University of California: Los Angeles (UCLA). Westwood, CA. January 2022 – Present. 
+#### University of California: Los Angeles (UCLA). Westwood, CA. January 2022 – Present. 
 - Kang Research Group: Worked on Proton-Nucleus particle production using Python. 
 
-### Université De La Côte D’Azur, Nice, France. May 2022 – July 2022. 
+#### Université De La Côte D’Azur, Nice, France. May 2022 – July 2022. 
 - LISA Consortium: Worked on the characterization of spatial Photoreceivers.
 
-### California State University: Dominguez Hills, Carson, CA. January 2019 – December 2021.
+#### California State University: Dominguez Hills, Carson, CA. January 2019 – December 2021.
 - Toro Learning and Testing Center: Tutored students in Math, Physics, and Critical Thinking.
 
-### Center for Astrophysics: Harvard-Smithsonian. Boston, MA. June 2021 – August 2021.
+#### Center for Astrophysics: Harvard-Smithsonian. Boston, MA. June 2021 – August 2021.
 - Worked on constructing magnetic flux ropes using Matlab. 
 
 ## Accomplishments
