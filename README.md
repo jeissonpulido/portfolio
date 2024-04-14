@@ -10,31 +10,32 @@
 <details>
   <summary> <h2> Work Experience </h2></summary>
 
-**University of Southern California (USC). Los Angeles, CA. August 2023 – Present**
-- Currently serve as a laboratory instructor on Electricity and Magnetism experiments. 
+<strong> University of Southern California (USC). Los Angeles, CA. August 2023 – Present </strong>
+<ul><li>Currently serve as a laboratory instructor on Electricity and Magnetism experiments.</li></ul>
 
-**University of California: Los Angeles (UCLA). Westwood, CA. January 2022 – Present.**
-- Kang Research Group: Worked on Proton-Nucleus particle production using Python. 
+<strong>University of California: Los Angeles (UCLA). Westwood, CA. January 2022 – Present.</strong>
+<ul><li>Kang Research Group: Worked on Proton-Nucleus particle production using Python. </li></ul>
 
-**Université De La Côte D’Azur, Nice, France. May 2022 – July 2022.** 
-- LISA Consortium: Worked on the characterization of spatial Photoreceivers.
+<strong>Université De La Côte D’Azur, Nice, France. May 2022 – July 2022.</strong>
+<ul><li>LISA Consortium: Worked on the characterization of spatial Photoreceivers.</li></ul>
 
-**California State University: Dominguez Hills, Carson, CA. January 2019 – December 2021**
-- Toro Learning and Testing Center: Tutored students in Math, Physics, and Critical Thinking.
+<strong>California State University: Dominguez Hills, Carson, CA. January 2019 – December 2021</strong>
+<ul><li>Toro Learning and Testing Center: Tutored students in Math, Physics, and Critical Thinking.</li></ul>
 
-**Center for Astrophysics: Harvard-Smithsonian. Boston, MA. June 2021 – August 2021.**
-- Worked on constructing magnetic flux ropes using Matlab. 
+<strong>Center for Astrophysics: Harvard-Smithsonian. Boston, MA. June 2021 – August 2021.</strong>
+<ul><li>Worked on constructing magnetic flux ropes using Matlab. </li></ul>
 </details>
 
 <details>
 <summary><h2>Accomplishments </h2></summary>
-
-- National Science Foundation Graduate Research Fellowship (NSF GRFP). 2023-Present Fall 2022, Honors List. 
-- Cal-Bridge Scholar, Member. 2021-2023 
-- 2022 CSU Trustees Award for Outstanding Achievement, Recipient. 2022-2023. Robert R Sprague Foundation Scholarship, Recipient. 2022-2023. 
-- CB-EIC Fellowship at UCLA, Fellow. 2022 
-- Mani L. Bhaumik Institute of Theoretical Physics at UCLA, Member. 2022 SACNAS, Member. 2020 and 2022. 
-- Edison International STEM Scholarship, Recipient. 2022.
+<ul>
+<li>National Science Foundation Graduate Research Fellowship (NSF GRFP). 2023-Present Fall 2022, Honors List. </li>
+<li>Cal-Bridge Scholar, Member. 2021-2023 </li>
+<li>2022 CSU Trustees Award for Outstanding Achievement, Recipient. 2022-2023. Robert R Sprague Foundation Scholarship, Recipient. 2022-2023.</li> 
+<li>CB-EIC Fellowship at UCLA, Fellow. 2022 </li>
+<li>Mani L. Bhaumik Institute of Theoretical Physics at UCLA, Member. 2022 SACNAS, Member. 2020 and 2022. </li>
+<li>Edison International STEM Scholarship, Recipient. 2022.</li>
+</ul>
   </details>
 
 <details>
