@@ -1,13 +1,14 @@
 # Hello and Welcome!
 
-I'm Jeisson Pulido and I am currently a First Year Graduate Student at the University of Southern California. I am particularly interested in Cosmology/Astrophysics and I have had a few research experiences in both experimental and data-driven Astronomy. I also served as a high school and college tutor in many subjects, mostly on Calculus and Lower Division Physics. This website should give a short overview of my current work, so please feel free to explore this page. 
+<p align="left"> I'm Jeisson Pulido and I am currently a First Year at the University of Southern California. I am particularly interested in Cosmology/Astrophysics and I have had a few research experiences in both experimental and data-driven Astronomy. I also served as a high school and college tutor in many subjects, mostly on Calculus and Lower Division Physics. This website should give a short overview of my current work, so please feel free to explore this page. </p>
 
 ## Education
 
-- USC (2023-Present) | Grad Student Physics
-- CSUDH (2018-2023) | B.S., Physics
+- University of Southern California (2023-Present) | Grad Student Physics
+- CSU: Dominguez Hills (2018-2023) | B.S., Physics
   
-## Work Experience
+<details>
+  <summary> <h2> Work Experience </h2></summary>
 
 **University of Southern California (USC). Los Angeles, CA. August 2023 – Present**
 - Currently serve as a laboratory instructor on Electricity and Magnetism experiments. 
@@ -23,18 +24,22 @@ I'm Jeisson Pulido and I am currently a First Year Graduate Student at the Unive
 
 **Center for Astrophysics: Harvard-Smithsonian. Boston, MA. June 2021 – August 2021.**
 - Worked on constructing magnetic flux ropes using Matlab. 
+</details>
 
-## Accomplishments
+<details>
+<summary><h2>Accomplishments </h2></summary>
 
 - National Science Foundation Graduate Research Fellowship (NSF GRFP). 2023-Present Fall 2022, Honors List. 
 - Cal-Bridge Scholar, Member. 2021-2023 
 - 2022 CSU Trustees Award for Outstanding Achievement, Recipient. 2022-2023. Robert R Sprague Foundation Scholarship, Recipient. 2022-2023. 
 - CB-EIC Fellowship at UCLA, Fellow. 2022 
 - Mani L. Bhaumik Institute of Theoretical Physics at UCLA, Member. 2022 SACNAS, Member. 2020 and 2022. 
-- Edison International STEM Scholarship, Recipient. 2022. 
+- Edison International STEM Scholarship, Recipient. 2022.
+  </details>
 
-## Skills 
+<details>
+<summary><h2> Skills </h2> </summary>
 
 Matlab, Python, Autoplot, GitHub, Computer Clusters, Excel.
-
+</details>
 
