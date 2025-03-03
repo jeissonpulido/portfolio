@@ -2,3 +2,7 @@ title: Jeisson Pulido
 logo: Jeisson.JPG
 description: Graduate Student at University of Southern California
 theme: jekyll-theme-minimal
+
+permissions:
+  id-token: write  # Required for OIDC authentication
+  contents: read   # Typically needed for accessing repository contents
